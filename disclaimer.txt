@@ -1,4 +1,4 @@
-Disclaimer: Theoretical Framework Under Development
+Disclaimer: Theoretical Framework Under Development (Not Peer Reviewed)
 
 This repository contains a speculative theoretical framework proposed by an independent researcher without formal academic credentials in physics. While every effort has been made to ensure internal mathematical consistency and physical plausibility, the concepts herein—particularly the ψ variable and the Infinite State Manifold are not part of mainstream physics and remain unverified.
 
