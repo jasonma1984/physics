@@ -1,0 +1,9 @@
+Disclaimer: Theoretical Framework Under Development
+
+This repository contains a speculative theoretical framework proposed by an independent researcher without formal academic credentials in physics. While every effort has been made to ensure internal mathematical consistency and physical plausibility, the concepts herein—particularly the ψ variable and the Infinite State Manifold are not part of mainstream physics and remain unverified.
+
+The purpose of this work is exploratory: to propose a novel approach to black hole singularities, information retention, and recursive geometry. It is intended to inspire discussion, provoke critique, and invite refinement from the broader scientific community.
+
+Constructive feedback is welcome. This is not a finished theory. It is a beginning.
+
+As a Software Engineer with a passion for theoretical physics, I approached this problem from a systems architecture perspective. The core idea ψ as an internal state regulator mirrors principles of dynamic recursion, signal buffering, and collapse prevention in computational systems. While not formally trained in general relativity, I’ve attempted to respect the mathematical structure while pushing beyond its classical constraints. This is a blueprint, not a verdict.
